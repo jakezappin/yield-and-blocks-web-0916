@@ -6,7 +6,7 @@ def hello_t(array)
       index += 1
     end
   else
-    puts "'Ey! You forgot-a the block-a!"
+    puts "'No Block Was Given"
   end
   return array
 end
